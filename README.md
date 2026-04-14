@@ -1,3 +1,5 @@
+![Dashboard Preview](Dashboard.png)
+ 
  TrendCart Analytics Dashboard
   Overview
 
